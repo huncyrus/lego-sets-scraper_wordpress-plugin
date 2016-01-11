@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+45 3 * * * php -S lego-scrape.php >/dev/null 2>&1
